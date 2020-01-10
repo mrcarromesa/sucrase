@@ -18,7 +18,7 @@ yarn add sucrase -D
 
 ```js
 "scripts": {
-  "dev": "sucrase-node src/server.js"
+  "dev": "nodemon src/server.js"
 }
 ```
 
