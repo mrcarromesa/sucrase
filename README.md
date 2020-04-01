@@ -55,6 +55,7 @@ yarn add nodemon
     "type": "node",
     "request": "attach",
     "name": "Launch Program",
+    "restart": true,
     "protocol": "inspector"
   }
 ]
